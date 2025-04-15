@@ -5,9 +5,9 @@ function Hero() {
     <div className="container">
       <div className="row p-5 mt-5 mb-5">
         <h1 className="fs-2 text-center">
-          We pioneered the discount broking model in India
+        Revolutionizing Crypto Trading: Smart Bots, 
           <br />
-          Now, we are breaking ground with our technology.
+          Seamless Automation, and Profitable Outcomes.
         </h1>
       </div>
 
@@ -17,38 +17,26 @@ function Hero() {
       >
         <div className="col-6 p-5">
           <p>
-            We kick-started operations on the 15th of August, 2010 with the goal
-            of breaking all barriers that traders and investors face in India in
-            terms of cost, support, and technology. We named the company
-            Zerodha, a combination of Zero and "Rodha", the Sanskrit word for
-            barrier.
+          At CryptoPilot, we specialize in developing advanced crypto trading bots that help traders maximize profits and reduce risks. Our bots are designed to work 24/7, providing an efficient and hands-off trading experience.
           </p>
           <p>
-            Today, our disruptive pricing models and in-house technology have
-            made us the biggest stock broker in India.
+          Our mission is to make crypto trading more accessible and profitable for everyone, whether you're a beginner or an experienced trader. We focus on providing reliable, secure, and customizable bots that cater to each trader’s unique needs.
           </p>
           <p>
-            Over 1+ Crore clients place millions of orders every day through our
-            powerful ecosystem of investment platforms, contributing over 15% of
-            all Indian retail trading volumes.
+          With a team of experienced developers and crypto experts, we ensure that our bots are powered by the latest technology and best practices in the industry. We prioritize security and guarantee the safety of your funds with encrypted API connections.
           </p>
         </div>
         <div className="col-6 p-5">
           <p>
-            In addition, we run a number of popular open online educational and
-            community initiatives to empower retail traders and investors.
-          </p>
-          <p>
-            <a href="" style={{ textDecoration: "none" }}>
-              Rainmatter
-            </a>
-            , our fintech fund and incubator, has invested in several fintech
-            startups with the goal of growing the Indian capital markets.
-          </p>
-          <p>
-            And yet, we are always up to something new every day. Catch up on
-            the latest updates on our blog or see what the media is saying about
-            us.
+          Customer satisfaction is our top priority. We offer dedicated 24/7 support to assist you with any questions or concerns, ensuring you have a smooth and successful trading experience.
+          
+           <p>
+           We believe in continuous innovation, and our bots are constantly updated with the latest market strategies. This ensures that our users can stay ahead in the fast-paced world of cryptocurrency trading. We provide flexible subscription plans to cater to traders of all levels and ensure they have the tools they need to succeed.
+           </p>
+
+           <p>
+           At CryptoPilot, we understand the importance of transparency and trust. That's why our bots are fully transparent, giving you access to performance metrics, trade history, and other vital data to track their effectiveness. We're committed to empowering traders with the tools they need to achieve their financial goals.
+           </p>
           </p>
         </div>
       </div>
