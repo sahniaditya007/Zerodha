@@ -35,11 +35,6 @@ function Navbar() {
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/pricing">
-                Pricing
-              </Link>
-            </li>
-            <li className="nav-item">
               <Link className="nav-link" to="/support">
                 Support
               </Link>
